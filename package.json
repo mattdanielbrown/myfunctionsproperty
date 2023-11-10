@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@edgio/cli": "^7.2.8",
+    "@edgio/cli": "^7.4.0",
     "@edgio/core": "^7.2.8",
     "@edgio/devtools": "^7.2.8",
     "@edgio/prefetch": "^7.2.8",
