@@ -21,7 +21,7 @@
     "@edgio/cli": "^7.2.8",
     "@edgio/core": "^7.2.8",
     "@edgio/devtools": "^7.2.8",
-    "@edgio/prefetch": "^7.2.8",
+    "@edgio/prefetch": "^7.13.13",
     "dotenv": "^16.3.1"
   },
   "repository": "git@github.com:edgio-docs/edgio-v7-edge-functions-example.git",
